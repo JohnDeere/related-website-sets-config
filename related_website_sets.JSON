@@ -1,0 +1,14 @@
+{
+    "sets": [
+      {
+        "contact": "bergmanpatrickr@johndeere.com",
+        "primary": "https://johndeere.com",
+
+        "associatedSites": ["https://deere.com"],
+
+        "rationaleBySite": {
+           "https://deere.com": "Both johndeere.com and deere.com share branding, logos, and terms and conditions. They are used interchangeably. The names themselves are associated to Deere & Company in the marketplace."
+        }
+      }
+    ]
+  }
